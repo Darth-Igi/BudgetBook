@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/cv_expenditure"
+    android:layout_margin="8dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="2dp"
+        android:padding="16dp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/expenditureLabel"
+            android:layout_alignParentTop="true"
+            android:textSize="14sp"
+            android:layout_marginRight="6dp"
+            android:text="@string/text.expenditure_on"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/expenditureDate"
+            android:layout_toRightOf="@+id/expenditureLabel"
+            android:layout_alignParentTop="true"
+            android:textSize="14sp"
+            android:text="24.07.2015"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/expenditureAmount"
+            android:layout_below="@+id/expenditureLabel"
+            android:textSize="24sp"
+            android:text="24,45"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/expenditureStore"
+            android:layout_below="@+id/expenditureLabel"
+            android:layout_toRightOf="@+id/expenditureAmount"
+            android:textSize="14sp"
+            android:text="bei Müller"
+            android:layout_marginTop="11dp"
+            android:layout_marginLeft="5dp"/>
+
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

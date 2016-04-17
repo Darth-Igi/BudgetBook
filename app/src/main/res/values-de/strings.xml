@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Haushaltsbuch</string>
+
+    <string name="title_section1">Abteilung 1</string>
+    <string name="title_section2">Abteilung 2</string>
+    <string name="title_section3">Abteilung 3</string>
+
+    <string name="home">Startseite</string>
+    <string name="menu2">Menu 2</string>
+    <string name="menu3">Menu 3</string>
+
+    <!-- DICT -->
+    <string name="dict.action_settings">Einstellungen</string>
+    <string name="dict.amount">Wert</string>
+    <string name="dict.at">bei %s</string>
+
+    <string name="dict.close">Schließen</string>
+
+    <string name="dict.product">Produkt</string>
+
+    <string name="dict.store">Geschäft</string>
+    <string name="dict.source_of_funds">Geldquelle</string>
+    <string name="dict.save">Speichern</string>
+
+
+
+    <!-- TEXT -->
+    <string name="text.action_example">Beispielaktion</string>
+    <string name="text.amount_necessary">Sie benötigen einen Wert um speichern zu können.</string>
+
+    <string name="text.expenditure_sum_in_month">Summe der Ausgaben in diesem Monat</string>
+    <string name="text.expenditure_on">Ausgabe am</string>
+
+    <string name="text.navigation_drawer_open">Navigationzeichner öffnen</string>
+    <string name="text.navigation_drawer_close">Navigationzeichner schliessen</string>
+    <string name="text.new_expenditure">Neue Ausgabe</string>
+
+    <string name="text.successfully_saved">Erfolgreich gespeichert</string>
+
+</resources>

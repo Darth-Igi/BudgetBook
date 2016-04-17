@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">BudgetBook</string>
+
+    <string name="openDrawer">Open Drawer</string>
+    <string name="closeDrawer">Close Drawer</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="home">Home</string>
+    <string name="menu2">Menu 2</string>
+    <string name="menu3">Menu 3</string>
+
+
+    <!-- DICT -->
+    <string name="dict.action_settings">Settings</string>
+    <string name="dict.amount">Amount</string>
+    <string name="dict.at">at %s</string>
+
+    <string name="dict.close">Close</string>
+
+    <string name="dict.product">Product</string>
+
+    <string name="dict.save">Save</string>
+    <string name="dict.source_of_funds">Source of Funds</string>
+    <string name="dict.store">Store</string>
+
+    <!-- TEXT -->
+    <string name="text.action_example">Example action</string>
+    <string name="text.amount_necessary">You need an amount to save.</string>
+
+    <string name="text.expenditure_sum_in_month">Total expenditure in this month</string>
+    <string name="text.expenditure_on">Expenditure on</string>
+
+    <string name="text.navigation_drawer_close">Close navigation drawer</string>
+    <string name="text.navigation_drawer_open">Open navigation drawer</string>
+    <string name="text.new_expenditure">New Expenditure</string>
+
+    <string name="text.successfully_saved">Successfully Saved</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

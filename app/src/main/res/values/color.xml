@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Primary_Cyan">#FF00bcd4</color>
+    <color name="PrimaryDark_Cyan">#FF0097a7</color>
+    <color name="PrimaryLight_Cyan">#FFB2EBF2</color>
+    <color name="Accent_Yellow">#FFFFFF00</color>
+    <color name="Black">#FF000000</color>
+    <color name="Black_87">#DE000000</color>
+    <color name="Black_54">#8A000000</color>
+    <color name="Black_38">#61000000</color>
+    <color name="Black_12">#1F000000</color>
+    <color name="White">#FFFFFFFF</color>
+    <color name="White_70">#B3FFFFFF</color>
+    <color name="White_30">#4DFFFFFF</color>
+    <color name="White_12">#1FFFFFFF</color>
+</resources>
